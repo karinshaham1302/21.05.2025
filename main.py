@@ -1,4 +1,4 @@
-from RubberDuck import RubberDuck
+from rubberduck import RubberDuck
 
 def main():
     duck = RubberDuck()
